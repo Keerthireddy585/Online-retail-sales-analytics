@@ -4,6 +4,8 @@
 This project focuses on designing a **relational database** for an online retail system and performing **SQL-based descriptive analysis** to evaluate sales performance, customer contribution, and order behavior.  
 It demonstrates end-to-end use of SQL for **data modeling, analysis, and reporting**.
 
+> **Note:** Dataset contains limited records; dashboards focus on demonstrating data modeling, SQL analysis, and visualization techniques.
+
 ## Database Design
 - Designed a **normalized relational database schema** to model end-to-end retail transactions
 - Implemented **primary and foreign key constraints** to maintain data integrity
