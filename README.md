@@ -47,4 +47,4 @@ Performed descriptive analysis to:
 - MySQL
 - SQL (DDL, DML, DQL)
 - Relational Database Design
-- Tableau
+- Power BI
